@@ -1,9 +1,9 @@
-# Chatly is very simple Chat App
+# Chatly is a very simple Chat App
 
-State Management : Bloc Cubit
+State Management: Bloc Cubit
 APIs
 Data Modeling
 Firebase Authentication
 Firebase Firestore
 
-![Chatly!](App image\Screenshot_1690759503.png)
+![Chatly!](App image/Screenshot_1690759503.png)
